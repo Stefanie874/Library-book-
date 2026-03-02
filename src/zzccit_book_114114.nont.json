@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZZCCIT_BOOK_114114",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "Zzccit_Book_114114",
+  "sapObjectType": "Zzccit_Book_114114",
+  "rootNode": true
+}

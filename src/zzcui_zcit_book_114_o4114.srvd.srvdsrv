@@ -1,0 +1,11 @@
+@EndUserText: {
+  label: 'Service Definition for ZZCC_CIT_BOOK_114114'
+}
+@ObjectModel: {
+  leadingEntity: {
+    name: 'ZZCC_CIT_BOOK_114114'
+  }
+}
+define service ZZCUI_ZCIT_BOOK_114_O4114 provider contracts odata_v4_ui {
+  expose ZZCC_CIT_BOOK_114114;
+}
